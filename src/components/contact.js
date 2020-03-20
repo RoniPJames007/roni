@@ -10,7 +10,7 @@ class Contact extends Component {
                     <Cell col={6}>
                         <h2>Roni P James</h2>
                         <img
-                             src={process.env.PUBLIC_URL +"/photo/roni.png"}
+                             src={process.env.PUBLIC_URL +"/roni.png"}
                              alt="avatar"
                         style={{height: '250px'}}
                         
