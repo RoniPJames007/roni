@@ -9,7 +9,7 @@ class Landing extends Component {
                    <Cell col={12}>
                        
                        <img
-                             src={process.env.PUBLIC_URL +"/photo/roni.png"}
+                             src={process.env.PUBLIC_URL +"/roni.png"}
                             
                          alt="avatar"
                          className="avatar-img"

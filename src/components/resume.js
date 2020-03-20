@@ -6,7 +6,7 @@ class Resume extends Component {
 
 <div className="resume-body">
     <img
-    src={process.env.PUBLIC_URL +"/photo/resume.jpg"}
+    src={process.env.PUBLIC_URL +"/resume.jpg"}
     alt="avatar"
     style={{height: '100%',width: '60%'}}
                         
